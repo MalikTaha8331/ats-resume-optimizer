@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Environment variables / secrets - NEVER commit these
+.env
+.env.local
+*.key
+
+# Runtime data
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log

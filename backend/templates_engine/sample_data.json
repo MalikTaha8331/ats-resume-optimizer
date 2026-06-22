@@ -1,0 +1,68 @@
+{
+  "contact": {
+    "name": "Malik Taha",
+    "email": "malik.taha@example.com",
+    "phone": "+92 300 1234567",
+    "location": "Wah Cantt, Pakistan",
+    "linkedin": "linkedin.com/in/malik-taha-cyber-expert",
+    "github": "github.com/MalikTaha8331"
+  },
+  "tagline": "Cybersecurity Professional | SOC Analyst",
+  "summary": "Cybersecurity student with hands-on experience building AI-powered security tools, including an intrusion detection system and a network risk scanner. Skilled in Python, Flask, machine learning model deployment, and SIEM tools such as Wazuh.",
+  "skills": ["Python", "Flask", "SQLite", "Wazuh SIEM", "Kali Linux", "Scapy", "Machine Learning", "REST API Design", "bcrypt Authentication", "Git/GitHub", "Network Security", "Digital Forensics"],
+  "experience": [
+    {
+      "title": "Cybersecurity Intern",
+      "organization": "Internee.pk",
+      "dates": "Jan 2026 - Present",
+      "bullets": [
+        "Deployed Wazuh SIEM with Kali Linux as manager and Windows machine as monitored endpoint",
+        "Resolved infrastructure issues including VMware USB controller configuration and version-specific install paths",
+        "Completed structured lab tasks covering log monitoring, alert configuration, and endpoint security"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "CyberSentinel (Final Year Project)",
+      "description": "AI-powered Intrusion Detection/Prevention System",
+      "dates": "2025 - 2026",
+      "bullets": [
+        "Built live packet capture and analysis system using Flask and Scapy",
+        "Trained Random Forest (99.92%), DNN (99.51%), and SVM (96.09%) models on NSL-KDD dataset",
+        "Implemented OWASP-compliant authentication with OTP password reset and GeoIP tracking",
+        "Developed 4-tier threat classification system with automated blocking and email alerts"
+      ]
+    },
+    {
+      "name": "NetSentinel AI",
+      "description": "AI-powered port scanner and network risk assessment tool",
+      "dates": "2026",
+      "bullets": [
+        "Designed Flask backend with bcrypt authentication and SQLite database",
+        "Built asynchronous TCP scanner with banner grabbing capability",
+        "Integrated CVE correlation via NVD API and AI-driven threat analysis using Groq API",
+        "Trained ensemble ML models on NSL-KDD achieving up to 99.58% accuracy",
+        "Built interactive dashboard with PDF report generation"
+      ]
+    },
+    {
+      "name": "PhishGuard AI",
+      "description": "Phishing URL detection tool",
+      "dates": "2025",
+      "bullets": [
+        "Built phishing URL classifier achieving ~97% accuracy on UCI dataset",
+        "Implemented deep scan feature using BeautifulSoup for content analysis"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "BS Cybersecurity",
+      "institution": "Sir Syed CASE Institute of Technology",
+      "dates": "2022 - 2026",
+      "details": "Wah Cantt, Pakistan"
+    }
+  ],
+  "certifications": []
+}
